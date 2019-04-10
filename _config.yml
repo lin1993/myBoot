@@ -78,4 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+    type: git
+    repository: https://github.com/lin1993/myBook.git
+    branch: master
