@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LinSir的小站
+title: 雪寒书屋
 subtitle:
 description: 努力做一个终身学习者
 keywords:
 author: snow_cold
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-snippet
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
