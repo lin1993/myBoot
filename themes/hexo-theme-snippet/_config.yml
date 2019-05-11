@@ -56,9 +56,8 @@ jsonContent:
 ## 网站公告设置
 notification: |-
             <p>
-                主题下载：<a href="https://github.com/shenliyang/hexo-theme-snippet" title="fork me" target="_blank">Snippet主题</a> <br/>
-                主题使用：<a href="https://github.com/shenliyang/hexo-theme-snippet/blob/master/README.md#常见问题" title="" target="_blank">常见使用问题</a> <br/>
-                支持主题：<a href="https://github.com/shenliyang/hexo-theme-snippet/stargazers">Star一下</a>
+                网站正在建设中</br>
+                百度一下：<a href="https://www.baidu.com">百度</a>
             </p>
             <p>
               新上架...
@@ -67,21 +66,18 @@ notification: |-
 
 ## 社交设置
 social:
- - name: Github
-   icon: git
-   href: //github.com/shenliyang
  - name: 邮箱
    icon: envelope-o
-   href: mailto:snippet@91h5.cc
+   href: mailto:202396321@qq.com
  - name: 联系QQ
    icon: qq
-   href: /
+   href: http://wpa.qq.com/msgrd?v=3&uin=202396321&site=qq&menu=yes
  - name: 微信
    icon: weixin
    href: /
  - name: QQ群
    icon: users
-   href: /
+   href: https://jq.qq.com/?_wv=1027&k=50ZA7uj
 
 ## 文章分类设置
 cate_config:
