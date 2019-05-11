@@ -19,15 +19,15 @@ menu:
   icon:
 
 ## favicon
-favicon: /favicon.ico
+favicon: https://ae01.alicdn.com/kf/HTB1UAYBVgHqK1RjSZFPq6AwapXaw.jpg
 
 ## Feed
 rss: /atom.xml
 
-## Carousel
+## Carousel 广告位
 carousel:
-  img: './img/head-img.jpg'
-  url: 'http://www.viphrm.com'
+  img: 'https://img20.360buyimg.com/da/jfs/t1/40285/4/5768/103818/5ccebc16Ede8109e2/a16a127a2beee959.jpg!q95.webp'
+  url: 'https://u.jd.com/exmxqL'
 
 # 各个小工具的设置
 
@@ -54,15 +54,16 @@ jsonContent:
     tags: false
 
 ## 网站公告设置
+## 百度一下：<a href="https://www.baidu.com">百度</a>
+## <img src="https://ae01.alicdn.com/kf/HTB1v632nTZmx1VjSZFGq6yx2XXaB.jpg">
 notification: |-
             <p>
                 网站正在建设中</br>
-                百度一下：<a href="https://www.baidu.com">百度</a>
+                如果您有什么好的建议，可到社交栏群组反馈。
             </p>
             <p>
-              新上架...
+             若您有什么想要的书籍，而且风评不错，也可联系站长上架。
             </p>
-            <img src="https://ae01.alicdn.com/kf/HTB1v632nTZmx1VjSZFGq6yx2XXaB.jpg">
 
 ## 社交设置
 social:
@@ -111,11 +112,11 @@ links:
 # 主题自定义个性化配置
 
 ## 网站宣传语
-branding: 阅读使人进步
+branding: 阅读是最好的进步方式
 
 ## 设置banner背景图片
 banner:
-    img: http://snippet.shenliyang.com/img/banner.jpg
+    img: https://ae01.alicdn.com/kf/HTB1G0fDVjTpK1RjSZKP7613UpXaU.png
 
 ## 首页列表底部面板
 homePanel: true
@@ -153,8 +154,8 @@ declaration:
 
 ## 文章打赏
 reward:
-  alipay: ''
-  wepay: ''
+  alipay: 'https://ae01.alicdn.com/kf/HTB1gUHHVhTpK1RjSZFK7612wXXaB.png'
+  wepay: 'https://ae01.alicdn.com/kf/HTB1xTm_VmzqK1RjSZPc762TepXa6.png'
   tip: 赞赏是不耍流氓的鼓励
 
 ## 主题评论
@@ -222,10 +223,10 @@ visit_counter:
 ## 网站访问统计分析
 
 ### 网盟CNZZ统计
-cnzz_analytics: 1263868967
+cnzz_analytics: 
 
 ### 百度统计
-baidu_analytics:
+baidu_analytics: 92abd9a23820d819baed3b39fd7afad0
 
 ### 谷歌统计
 google_analytics:
